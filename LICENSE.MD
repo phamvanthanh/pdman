@@ -1,4 +1,4 @@
-This End-User License Agreement ("EULA") is a legal agreement between you and TPV Software
+This End-User License Agreement ("EULA") is a legal agreement between you and BlueGrid Ltd.
 
 This EULA agreement governs your acquisition and use of our BlueGrid software ("Software") directly from BlueGrid Ltd. or indirectly through a BlueGrid Ltd. authorized reseller or distributor (a "Reseller").
 
